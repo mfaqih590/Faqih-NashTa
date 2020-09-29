@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\TMSI\spring-boot2-jpa-crud-example-master\.metadata\.plugins\org.eclipse.jdt.core
+405463218.index
+3527459554.index
+3952553512.index

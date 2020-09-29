@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "net.guides.springboot2.springboot2jpacrudexample.Application",
+            "projectName": "springboot2-jpa-crud-example"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+java -Dserver.port=8888 -jar springboot2-jpa-crud-example-0.0.1-SNAPSHOT.jar
